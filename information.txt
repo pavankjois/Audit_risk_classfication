@@ -1,0 +1,27 @@
+Sector_score-Historical risk score value of the target-unit using analytical procedure
+LOCATION_ID-Unique ID of the city/province.
+PARA_A-Discrepancy found in the planned expenditure of inspection and summary report A in Rs (in crore).
+Score_A
+Risk_A
+PARA_B-Discrepancy found in the unplanned expenditure of inspection and summary report B in Rs (in crore).
+Score_B
+Risk_B
+TOTAL-Total amount of discrepancy found in other reports Rs (in crore).
+numbers-Historical discrepancy score
+Score_B.1
+Risk_C
+Money_Value-Amount of money involved in misstatements in the past audits.
+Score_MV
+Risk_D
+District_Loss
+PROB
+RiSk_E
+History
+Prob
+Risk_F
+Score
+Inherent_Risk
+CONTROL_RISK
+Detection_Risk
+Audit_Risk-Total risk score using analytical procedure
+Risk-Risk Class assigned to an audit-case. (Target Feature)
